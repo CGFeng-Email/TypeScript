@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={947:(e,o)=>{Object.defineProperty(o,"__esModule",{value:!0}),o.sum=void 0,o.sum=(e,o)=>`${e} / ${o}`}},o={};function r(s){var t=o[s];if(void 0!==t)return t.exports;var u=o[s]={exports:{}};return e[s](u,u.exports,r),u.exports}(()=>{const e=r(947);console.log("message","hello TypeScript"),console.log((0,e.sum)(10,20))})()})();
